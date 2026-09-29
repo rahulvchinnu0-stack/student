@@ -1,0 +1,6 @@
+{
+  "name": "AttendX - Student Attendance Management System",
+  "description": "Production-grade Student Attendance Management System with QR attendance, timetable, leave workflows, analytics, and role-based access for Students, Teachers, and Admins.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
